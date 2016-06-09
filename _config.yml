@@ -6,9 +6,9 @@ color:
   saturation: 0.8605462398845702
   rhythmicContrast: 0.6668009536806494
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
 name: VelirTest
