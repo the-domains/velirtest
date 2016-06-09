@@ -4,36 +4,8 @@
         <description><![CDATA[VelirTest]]></description>
         <link>https://thegrid.ai/velirtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 20:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 20:38:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/velirtest/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Personalization: Separating the Hype from Reality]]></title>
-            <description><![CDATA[<article><h1>Personalization: Separating the Hype from Reality</h1><p>"Personalization" is the most frequently mentioned buzzword in industry articles, vendor marketing, client meetings, RFPs and at conferences. Yet very few people are actually doing it and even fewer understand what it really entails. Personalization is often spoken about in generalities, as if it's a basic requirement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/01/13/personalization-separating-hype-reality</link>
-            <guid isPermaLink="false">d8967b0a-ec91-4417-b6f9-29868dac9ccb</guid>
-            <pubDate>Thu, 09 Jun 2016 20:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Technical Guide to Drupal 8: Forms]]></title>
-            <description><![CDATA[<article><h1>A Technical Guide to Drupal 8: Forms</h1><p>Drupal 8 was recently released after years of development and testing. A majority of the Drupal core was rewritten from the ground up in this latest version - a radical approach to modernizing the platform on various fronts and easing both development and content management.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/01/04/technical-guide-drupal-8-forms</link>
-            <guid isPermaLink="false">a6d44de8-f8ba-4bc5-bff1-f7737b3fecd7</guid>
-            <pubDate>Thu, 09 Jun 2016 20:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Velir Appoints New CSO to Oversee the Agency's Strategic Services]]></title>
-            <description><![CDATA[<article><h1>Velir Appoints New CSO to Oversee the Agency's Strategic Services</h1><p>Velir announces the formation of a new Strategy division that will integrate design, user experience, analytics, and digital marketing technology under one umbrella.For over 15 years Velir has been known for its venerable web development and system implementation and integration services that revolve around the top three web content management (WCM) systems: Sitecore, Adobe, and Drupal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3956ce3f1d7042bc93e25225aa6f2647a62a5841.png"></article>]]></description>
-            <link>https://www.velir.com/blog/2015/10/29/velir-appoints-new-cso-oversee-agency-s-strategic-services</link>
-            <guid isPermaLink="false">9b25fb47-592d-416f-a1ec-72e2b93c5b39</guid>
-            <pubDate>Thu, 09 Jun 2016 20:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why a UX & Design Audit is a Great Way to Start Your Next Redesign]]></title>
-            <description><![CDATA[<article><h1>Why a UX & Design Audit is a Great Way to Start Your Next Redesign</h1><p>If you work for an organization that publishes ample digital content, chances are you've dreamt of redesigning your website to better promote this content. There are many other reasons (evolving SEO standards, web technology changes, browser updates, design trends, changes to company branding, etc.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e3d0fa6ba83fc7f766c63c416031b16ce61dec4.jpg"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/01/29/why-ux-design-audit-great-way-start-your-next-redesign</link>
-            <guid isPermaLink="false">0c6db877-3d7a-4ed1-9883-a9618fcdc511</guid>
-            <pubDate>Thu, 09 Jun 2016 20:38:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bridging the Geographical Gap: Working with Distributed Teams]]></title>
             <description><![CDATA[<article><h1>Bridging the Geographical Gap: Working with Distributed Teams</h1><p>Large and complex technical projects often times see the involvement of distributed teams and this can get challenging even for the most seasoned project manager. It has been my experience that distributed teams can result in team members not gelling well or working together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
@@ -49,6 +21,13 @@
             <pubDate>Thu, 09 Jun 2016 20:38:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Inside the Workings of a Digital Agency: Beyond Conventional Benefits]]></title>
+            <description><![CDATA[<article><h1>Inside the Workings of a Digital Agency: Beyond Conventional Benefits</h1><p>As our company has seen an explosive growth in numbers over the past few years, we've made special strides to ensure that we can continue to maintain a supportive, safe, and fun working environment for our staff. We know that it all comes down to them - our ultimate success as a company is driven by attracting and retaining great talent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/321bd9a251d057dd81dd7442257a79d146317e75.jpg"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/04/27/inside-workings-digital-agency-beyond-conventional-benefits</link>
+            <guid isPermaLink="false">06a7e6cb-3ac5-446e-b04d-3158ef21e834</guid>
+            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sitecore Hacks for Easy Content Management & Editing: Part 2]]></title>
             <description><![CDATA[<article><h1>Sitecore Hacks for Easy Content Management & Editing: Part 2</h1><p>In Part 1 of this post, we discussed two frequently asked questions from our clients around Sitecore's content editing capabilities. Without further ado, here are the next two questions we've seen come up often in relation to this topic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15df8f62e72bef474c58d13c2feb6e04b19526bd.png"></article>]]></description>
             <link>https://www.velir.com/blog/2016/05/13/sitecore-hacks-easy-content-management-editing-part-2</link>
@@ -56,10 +35,10 @@
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inside the Workings of a Digital Agency: Beyond Conventional Benefits]]></title>
-            <description><![CDATA[<article><h1>Inside the Workings of a Digital Agency: Beyond Conventional Benefits</h1><p>As our company has seen an explosive growth in numbers over the past few years, we've made special strides to ensure that we can continue to maintain a supportive, safe, and fun working environment for our staff. We know that it all comes down to them - our ultimate success as a company is driven by attracting and retaining great talent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/321bd9a251d057dd81dd7442257a79d146317e75.jpg"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/04/27/inside-workings-digital-agency-beyond-conventional-benefits</link>
-            <guid isPermaLink="false">06a7e6cb-3ac5-446e-b04d-3158ef21e834</guid>
+            <title><![CDATA[Sitecore Hacks for Easy Content Management & Editing: Part 1]]></title>
+            <description><![CDATA[<article><h1>Sitecore Hacks for Easy Content Management & Editing: Part 1</h1><p>In the melee of implementing a Sitecore solution and getting it ready for launch, most team members and stakeholders tend to overlook the post-launch period and what things will be like three to four months down the line when they're in the thick of working with their new solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7beed8fe7cc5fd07a6d118a1e79a3ffd7d52b65.png"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/05/11/sitecore-hacks-easy-content-management-editing-part-1</link>
+            <guid isPermaLink="false">26bf3cfa-3c61-49dd-b9f8-8cec809f82f4</guid>
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
         <item>
@@ -70,10 +49,31 @@
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sitecore Hacks for Easy Content Management & Editing: Part 1]]></title>
-            <description><![CDATA[<article><h1>Sitecore Hacks for Easy Content Management & Editing: Part 1</h1><p>In the melee of implementing a Sitecore solution and getting it ready for launch, most team members and stakeholders tend to overlook the post-launch period and what things will be like three to four months down the line when they're in the thick of working with their new solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7beed8fe7cc5fd07a6d118a1e79a3ffd7d52b65.png"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/05/11/sitecore-hacks-easy-content-management-editing-part-1</link>
-            <guid isPermaLink="false">26bf3cfa-3c61-49dd-b9f8-8cec809f82f4</guid>
+            <title><![CDATA[A Faster & Better QA Process Through the Use of Mind Maps]]></title>
+            <description><![CDATA[<article><h1>A Faster & Better QA Process Through the Use of Mind Maps</h1><p>It's a common misconception that you don't need to bring QA in until the end of your project. Once development is near completion, QA comes in, writes test cases, and begins their frenzy of testing. Yes, that can work, but there's a better way to do things.The truth is, the earlier you catch a bug, the less expensive it's going to be to fix.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/02/18/faster-better-qa-process-through-use-mind-maps</link>
+            <guid isPermaLink="false">9db9bd69-0fd4-421c-bc4e-5ad9e28a9a44</guid>
+            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Looking at Analytics Reports and Start Measuring What Matters]]></title>
+            <description><![CDATA[<article><h1>Stop Looking at Analytics Reports and Start Measuring What Matters</h1><p>Humans have built-in cognitive biases. The most common one seen in business and marketing is confirmation bias. It's remarkably easy to mine a stat or graph that gives the illusion of validation, implying that something is effective (or ineffective) based on a preconceived notion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef30fd2b67426243025f1773c06c0fe814ec2038.jpg"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/03/24/stop-looking-analytics-reports-and-start-measuring-what-matters</link>
+            <guid isPermaLink="false">314d98be-d6ed-425d-8e5b-c10122441b27</guid>
+            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How You Can Make the Most of UAT for a Killer End Product]]></title>
+            <description><![CDATA[<article><h1>How You Can Make the Most of UAT for a Killer End Product</h1><p>So the project you've commissioned has completed development. It's been tested by QA and is now being handed over to you for UAT. What happens next? For a lot of the clients we work with, our initial project with them may be the first time they've ever been involved in this type of endeavor and they're not quite sure what is needed of them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/03/31/how-you-can-make-most-uat-killer-end-product</link>
+            <guid isPermaLink="false">334a0cf8-f915-4867-8122-6f94a6c7d09d</guid>
+            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ask Velir: 5 Easy Hacks for the Efficient Front-End Developer]]></title>
+            <description><![CDATA[<article><h1>Ask Velir: 5 Easy Hacks for the Efficient Front-End Developer</h1><p>In code, there is typically more than one way to skin the proverbial cat. This differs from design in that solving a problem is more about personal preference, efficiency, and available technologies rather than adhering to generally accepted standards for what makes something look good and behave intuitively.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/02/09/ask-velir-5-easy-hacks-efficient-front-end-developer</link>
+            <guid isPermaLink="false">c97cdd58-eb6e-4582-9a10-b3e50b520373</guid>
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
     </channel>
