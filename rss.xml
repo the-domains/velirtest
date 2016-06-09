@@ -4,8 +4,15 @@
         <description><![CDATA[VelirTest]]></description>
         <link>https://thegrid.ai/velirtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 20:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 20:38:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/velirtest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Personalization: Separating the Hype from Reality]]></title>
+            <description><![CDATA[<article><h1>Personalization: Separating the Hype from Reality</h1><p>"Personalization" is the most frequently mentioned buzzword in industry articles, vendor marketing, client meetings, RFPs and at conferences. Yet very few people are actually doing it and even fewer understand what it really entails. Personalization is often spoken about in generalities, as if it's a basic requirement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/01/13/personalization-separating-hype-reality</link>
+            <guid isPermaLink="false">d8967b0a-ec91-4417-b6f9-29868dac9ccb</guid>
+            <pubDate>Thu, 09 Jun 2016 20:38:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Technical Guide to Drupal 8: Forms]]></title>
             <description><![CDATA[<article><h1>A Technical Guide to Drupal 8: Forms</h1><p>Drupal 8 was recently released after years of development and testing. A majority of the Drupal core was rewritten from the ground up in this latest version - a radical approach to modernizing the platform on various fronts and easing both development and content management.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
@@ -42,17 +49,17 @@
             <pubDate>Thu, 09 Jun 2016 20:38:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inside the Workings of a Digital Agency: Beyond Conventional Benefits]]></title>
-            <description><![CDATA[<article><h1>Inside the Workings of a Digital Agency: Beyond Conventional Benefits</h1><p>As our company has seen an explosive growth in numbers over the past few years, we've made special strides to ensure that we can continue to maintain a supportive, safe, and fun working environment for our staff. We know that it all comes down to them - our ultimate success as a company is driven by attracting and retaining great talent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/321bd9a251d057dd81dd7442257a79d146317e75.jpg"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/04/27/inside-workings-digital-agency-beyond-conventional-benefits</link>
-            <guid isPermaLink="false">06a7e6cb-3ac5-446e-b04d-3158ef21e834</guid>
-            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sitecore Hacks for Easy Content Management & Editing: Part 2]]></title>
             <description><![CDATA[<article><h1>Sitecore Hacks for Easy Content Management & Editing: Part 2</h1><p>In Part 1 of this post, we discussed two frequently asked questions from our clients around Sitecore's content editing capabilities. Without further ado, here are the next two questions we've seen come up often in relation to this topic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15df8f62e72bef474c58d13c2feb6e04b19526bd.png"></article>]]></description>
             <link>https://www.velir.com/blog/2016/05/13/sitecore-hacks-easy-content-management-editing-part-2</link>
             <guid isPermaLink="false">6121be98-9343-4a57-98ca-7f37189c5fc2</guid>
+            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside the Workings of a Digital Agency: Beyond Conventional Benefits]]></title>
+            <description><![CDATA[<article><h1>Inside the Workings of a Digital Agency: Beyond Conventional Benefits</h1><p>As our company has seen an explosive growth in numbers over the past few years, we've made special strides to ensure that we can continue to maintain a supportive, safe, and fun working environment for our staff. We know that it all comes down to them - our ultimate success as a company is driven by attracting and retaining great talent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/321bd9a251d057dd81dd7442257a79d146317e75.jpg"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/04/27/inside-workings-digital-agency-beyond-conventional-benefits</link>
+            <guid isPermaLink="false">06a7e6cb-3ac5-446e-b04d-3158ef21e834</guid>
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Sitecore Hacks for Easy Content Management & Editing: Part 1</h1><p>In the melee of implementing a Sitecore solution and getting it ready for launch, most team members and stakeholders tend to overlook the post-launch period and what things will be like three to four months down the line when they're in the thick of working with their new solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7beed8fe7cc5fd07a6d118a1e79a3ffd7d52b65.png"></article>]]></description>
             <link>https://www.velir.com/blog/2016/05/11/sitecore-hacks-easy-content-management-editing-part-1</link>
             <guid isPermaLink="false">26bf3cfa-3c61-49dd-b9f8-8cec809f82f4</guid>
-            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Faster & Better QA Process Through the Use of Mind Maps]]></title>
-            <description><![CDATA[<article><h1>A Faster & Better QA Process Through the Use of Mind Maps</h1><p>It's a common misconception that you don't need to bring QA in until the end of your project. Once development is near completion, QA comes in, writes test cases, and begins their frenzy of testing. Yes, that can work, but there's a better way to do things.The truth is, the earlier you catch a bug, the less expensive it's going to be to fix.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/02/18/faster-better-qa-process-through-use-mind-maps</link>
-            <guid isPermaLink="false">9db9bd69-0fd4-421c-bc4e-5ad9e28a9a44</guid>
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
     </channel>
