@@ -4,8 +4,15 @@
         <description><![CDATA[VelirTest]]></description>
         <link>https://thegrid.ai/velirtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 20:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 20:38:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/velirtest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why a UX & Design Audit is a Great Way to Start Your Next Redesign]]></title>
+            <description><![CDATA[<article><h1>Why a UX & Design Audit is a Great Way to Start Your Next Redesign</h1><p>If you work for an organization that publishes ample digital content, chances are you've dreamt of redesigning your website to better promote this content. There are many other reasons (evolving SEO standards, web technology changes, browser updates, design trends, changes to company branding, etc.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e3d0fa6ba83fc7f766c63c416031b16ce61dec4.jpg"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/01/29/why-ux-design-audit-great-way-start-your-next-redesign</link>
+            <guid isPermaLink="false">0c6db877-3d7a-4ed1-9883-a9618fcdc511</guid>
+            <pubDate>Thu, 09 Jun 2016 20:38:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bridging the Geographical Gap: Working with Distributed Teams]]></title>
             <description><![CDATA[<article><h1>Bridging the Geographical Gap: Working with Distributed Teams</h1><p>Large and complex technical projects often times see the involvement of distributed teams and this can get challenging even for the most seasoned project manager. It has been my experience that distributed teams can result in team members not gelling well or working together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How You Can Make the Most of UAT for a Killer End Product</h1><p>So the project you've commissioned has completed development. It's been tested by QA and is now being handed over to you for UAT. What happens next? For a lot of the clients we work with, our initial project with them may be the first time they've ever been involved in this type of endeavor and they're not quite sure what is needed of them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
             <link>https://www.velir.com/blog/2016/03/31/how-you-can-make-most-uat-killer-end-product</link>
             <guid isPermaLink="false">334a0cf8-f915-4867-8122-6f94a6c7d09d</guid>
-            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ask Velir: 5 Easy Hacks for the Efficient Front-End Developer]]></title>
-            <description><![CDATA[<article><h1>Ask Velir: 5 Easy Hacks for the Efficient Front-End Developer</h1><p>In code, there is typically more than one way to skin the proverbial cat. This differs from design in that solving a problem is more about personal preference, efficiency, and available technologies rather than adhering to generally accepted standards for what makes something look good and behave intuitively.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/02/09/ask-velir-5-easy-hacks-efficient-front-end-developer</link>
-            <guid isPermaLink="false">c97cdd58-eb6e-4582-9a10-b3e50b520373</guid>
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
     </channel>
