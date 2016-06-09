@@ -4,8 +4,15 @@
         <description><![CDATA[VelirTest]]></description>
         <link>https://thegrid.ai/velirtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 20:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 20:38:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/velirtest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Velir Appoints New CSO to Oversee the Agency's Strategic Services]]></title>
+            <description><![CDATA[<article><h1>Velir Appoints New CSO to Oversee the Agency's Strategic Services</h1><p>Velir announces the formation of a new Strategy division that will integrate design, user experience, analytics, and digital marketing technology under one umbrella.For over 15 years Velir has been known for its venerable web development and system implementation and integration services that revolve around the top three web content management (WCM) systems: Sitecore, Adobe, and Drupal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3956ce3f1d7042bc93e25225aa6f2647a62a5841.png"></article>]]></description>
+            <link>https://www.velir.com/blog/2015/10/29/velir-appoints-new-cso-oversee-agency-s-strategic-services</link>
+            <guid isPermaLink="false">9b25fb47-592d-416f-a1ec-72e2b93c5b39</guid>
+            <pubDate>Thu, 09 Jun 2016 20:38:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why a UX & Design Audit is a Great Way to Start Your Next Redesign]]></title>
             <description><![CDATA[<article><h1>Why a UX & Design Audit is a Great Way to Start Your Next Redesign</h1><p>If you work for an organization that publishes ample digital content, chances are you've dreamt of redesigning your website to better promote this content. There are many other reasons (evolving SEO standards, web technology changes, browser updates, design trends, changes to company branding, etc.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e3d0fa6ba83fc7f766c63c416031b16ce61dec4.jpg"></article>]]></description>
@@ -42,17 +49,17 @@
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sitecore Hacks for Easy Content Management & Editing: Part 1]]></title>
-            <description><![CDATA[<article><h1>Sitecore Hacks for Easy Content Management & Editing: Part 1</h1><p>In the melee of implementing a Sitecore solution and getting it ready for launch, most team members and stakeholders tend to overlook the post-launch period and what things will be like three to four months down the line when they're in the thick of working with their new solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7beed8fe7cc5fd07a6d118a1e79a3ffd7d52b65.png"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/05/11/sitecore-hacks-easy-content-management-editing-part-1</link>
-            <guid isPermaLink="false">26bf3cfa-3c61-49dd-b9f8-8cec809f82f4</guid>
-            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Test-Driven Development in Drupal 8]]></title>
             <description><![CDATA[<article><h1>Test-Driven Development in Drupal 8</h1><p>Test-Driven Development is the concept of writing tests before writing actual code, which can be hard to grasp if you are just starting to learn how to test your code. Let's assume that we need to add a field to the form we created here, to capture the user's email address.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3956ce3f1d7042bc93e25225aa6f2647a62a5841.png"></article>]]></description>
             <link>https://www.velir.com/blog/2016/06/08/test-driven-development-drupal-8</link>
             <guid isPermaLink="false">24dcea4c-a86d-4d68-8792-cf9d9c53c27a</guid>
+            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sitecore Hacks for Easy Content Management & Editing: Part 1]]></title>
+            <description><![CDATA[<article><h1>Sitecore Hacks for Easy Content Management & Editing: Part 1</h1><p>In the melee of implementing a Sitecore solution and getting it ready for launch, most team members and stakeholders tend to overlook the post-launch period and what things will be like three to four months down the line when they're in the thick of working with their new solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7beed8fe7cc5fd07a6d118a1e79a3ffd7d52b65.png"></article>]]></description>
+            <link>https://www.velir.com/blog/2016/05/11/sitecore-hacks-easy-content-management-editing-part-1</link>
+            <guid isPermaLink="false">26bf3cfa-3c61-49dd-b9f8-8cec809f82f4</guid>
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Stop Looking at Analytics Reports and Start Measuring What Matters</h1><p>Humans have built-in cognitive biases. The most common one seen in business and marketing is confirmation bias. It's remarkably easy to mine a stat or graph that gives the illusion of validation, implying that something is effective (or ineffective) based on a preconceived notion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef30fd2b67426243025f1773c06c0fe814ec2038.jpg"></article>]]></description>
             <link>https://www.velir.com/blog/2016/03/24/stop-looking-analytics-reports-and-start-measuring-what-matters</link>
             <guid isPermaLink="false">314d98be-d6ed-425d-8e5b-c10122441b27</guid>
-            <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How You Can Make the Most of UAT for a Killer End Product]]></title>
-            <description><![CDATA[<article><h1>How You Can Make the Most of UAT for a Killer End Product</h1><p>So the project you've commissioned has completed development. It's been tested by QA and is now being handed over to you for UAT. What happens next? For a lot of the clients we work with, our initial project with them may be the first time they've ever been involved in this type of endeavor and they're not quite sure what is needed of them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dfe61c75fe1088bf440c6688f43b4397eec0d34.png"></article>]]></description>
-            <link>https://www.velir.com/blog/2016/03/31/how-you-can-make-most-uat-killer-end-product</link>
-            <guid isPermaLink="false">334a0cf8-f915-4867-8122-6f94a6c7d09d</guid>
             <pubDate>Thu, 09 Jun 2016 20:37:57 GMT</pubDate>
         </item>
     </channel>
