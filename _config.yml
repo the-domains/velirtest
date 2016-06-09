@@ -1,0 +1,14 @@
+layout_spectrum: 0.8917695942800492
+typography_spectrum: 0.8038251255638897
+color:
+  brandStrength: 0.07935931207612157
+  lightness: 0.8241736555937678
+  saturation: 0.8605462398845702
+  rhythmicContrast: 0.6668009536806494
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: VelirTest
